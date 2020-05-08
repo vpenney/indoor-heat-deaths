@@ -1,0 +1,111 @@
+,Name,Date_of_Exam,Age,Gender,Temp_cleaned,Aircon_not_functional/minimally_functional,Aircon_functional_but_not_on,Residence_did_not_have_airconditioning,Year,air_conditioning
+1,Kevin Richard Anderson,2016-06-08,57.0,m,100.0,,,,2016,unknown
+3,Susan Maria Knopf,2016-06-16,63.0,f,104.0,,Y,,2016,off
+4,Robert Ray Robinson,2016-06-18,81.0,m,94.0,Y,,,2016,broken
+5,Erminia Quihuis Chacon,2016-06-20,79.0,f,100.0,,Y,,2016,off
+6,Melissa Ann Magrey,2016-06-23,42.0,f,100.0,,,,2016,unknown
+8,Elizabeth Jane Williams,2016-06-24,89.0,f,103.0,Y,,,2016,broken
+10,Michael Stanley Siders,2016-06-28,55.0,m,110.0,Y,,Y,2016,broken
+11,Ronald Clifford Bugh,2016-06-27,72.0,m,99.0,,Y,,2016,off
+12,Michael Gerard Hagensieker,2016-06-27,59.0,m,102.0,Y,,,2016,broken
+13,Dave Dwayne Nelson Sr. ,2016-06-28,56.0,m,95.0,,,Y,2016,none
+16,Janet Mae Stipetic,2016-07-05,81.0,f,90.0,,Y,,2016,off
+17,Mary Magadelena Rodriguez Ackenback,2016-07-06,79.0,f,100.0,,Y,,2016,off
+18,Gaudencio Sanchez Hernandez,2016-07-06,65.0,m,105.0,Y,,,2016,broken
+19,Albert D Smedly,2016-07-08,64.0,m,95.0,,,,2016,unknown
+20,Hadareina Serrano McInturf,2016-07-13,63.0,f,107.0,Y,,,2016,broken
+22,William Richard Scharf,2016-07-15,68.0,m,100.0,Y,,,2016,broken
+23,Gregory Sean Gallagher,2016-07-15,51.0,m,99.0,,Y,,2016,off
+24,Margaret E Miller,2016-07-21,68.0,f,105.0,Y,,,2016,broken
+27,Nora Ann Nemmers,2016-07-26,53.0,f,105.0,,,Y,2016,none
+31,Humberto Montoya Ayala,2016-07-28,53.0,m,100.0,,,Y,2016,none
+34,Gary Foulke Smith,2016-08-03,61.0,m,108.0,Y,,,2016,broken
+35,Lance Brain Blue,2016-08-02,49.0,m,100.0,Y,,,2016,broken
+37,Stephen Ernest Morgan,2016-08-04,62.0,m,104.0,Y,,,2016,broken
+38,Steven Eric Thompson,2016-08-06,69.0,m,96.0,Y,,,2016,broken
+39,Sandra Lee Broughton,2016-08-03,69.0,f,87.0,,,Y,2016,none
+43,Priscilla Diane Games,2016-08-10,49.0,f,113.0,Y,,,2016,broken
+44,Donald Emanuel Koontz,2016-08-10,91.0,m,89.0,Y,,,2016,broken
+45,Jeffery Dillard Carr,2016-08-11,61.0,m,90.0,,,Y,2016,none
+46,Joseph Nicholas Dimitry,2016-08-13,63.0,m,103.0,Y,,,2016,broken
+51,Kevin Loren Mackin,2016-08-20,63.0,m,95.0,Y,,,2016,broken
+53,Andrew Lee Statom,2016-08-23,52.0,m,96.0,,,Y,2016,none
+55,Beatrice G Ferrante,2016-08-26,99.0,f,95.1,,Y,,2016,off
+0,June Beverly Bonesteel,2017-03-26,78.0,F,107.9,Y,,,2017,broken
+1,Alfredo Macias,2017-06-04,58.0,M,85.0,,,,2017,unknown
+2,Robert Eugene Lose,2017-06-06,67.0,M,105.0,,,Y,2017,none
+3,Shirley Edna Grindle,2017-06-08,83.0,F,105.0,Y,,,2017,broken
+4,Norman Doral Roberts,2017-06-09,69.0,M,115.0,Y,,,2017,broken
+5,Elizabeth Ann Kedzierski,2017-06-14,59.0,F,96.0,Y,,,2017,broken
+6,Ritchie Niles Rasmussen,2017-06-23,65.0,M,123.0,,,,2017,unknown
+7,Rendaldo Anthony Alford Gonzales,2017-06-28,27.0,M,100.0,,,,2017,unknown
+8,Pamela Rae Pennington ,2017-06-28,64.0,F,109.0,,Y,,2017,off
+9,Juan Falcon Garibay,2017-06-29,71.0,M,107.0,,,Y,2017,none
+10,Joe Ann Hicks,2017-06-29,74.0,F,113.0,Y,,,2017,broken
+11,Thelma M Calhoun,2017-06-30,86.0,F,99.0,Y,,,2017,broken
+12,"Ivan Eugene Moore, Sr",2017-07-01,82.0,M,105.0,Y,,,2017,broken
+13,Susan Kaye Vycital,2017-07-03,61.0,F,110.0,Y,,,2017,broken
+14,Barbara Lee Eliopoulos,2017-07-03,80.0,F,105.0,,Y,,2017,off
+15,John Peter Stamos,2017-07-05,65.0,M,98.0,Y,,,2017,broken
+16,Jack Pinto,2017-07-04,72.0,M,101.0,,Y,,2017,off
+17,Jason Keith Rausch,2017-07-04,45.0,M,110.0,Y,,,2017,broken
+18,Lamoyne Lillian Loughry,2017-07-06,82.0,F,95.0,Y,,,2017,broken
+19,Elizabeth Anne Long,2017-07-06,55.0,F,95.0,Y,,,2017,broken
+20,Patrick Claude Conlon,2017-07-06,54.0,M,103.4,,,,2017,unknown
+21,Jesse Castano,2017-07-10,63.0,M,100.0,,,,2017,unknown
+22,Martha Ramsey,2017-07-11,79.0,F,96.0,,,Y,2017,none
+23,John Howard Lancaster ,2017-07-11,68.0,M,111.0,Y,,,2017,broken
+24,Billy Jack Willie,2017-07-10,85.0,M,107.0,Y,,,2017,broken
+25,Edward Tang,2017-07-17,87.0,M,102.0,Y,,,2017,broken
+26,Henry Frank Milek,2017-07-14,84.0,M,103.0,Y,,,2017,broken
+27,Barbara Jo Schmidt,2017-07-15,55.0,F,105.0,Y,,,2017,broken
+28,Virginia Joyce Schotte,2017-07-17,74.0,F,101.0,Y,,,2017,broken
+29,Florian John Zienty,2017-07-20,86.0,M,92.0,Y,,,2017,broken
+30,Sara Viola Price,2017-07-22,94.0,F,98.0,,Y,,2017,off
+31,Terry Lee Classen,2017-07-24,67.0,M,90.0,Y,,,2017,broken
+32,James Ray Wilson,2017-07-30,43.0,M,100.3,,,Y ,2017,unknown
+33,Frederick Michael Dunham,2017-08-30,53.0,M,107.0,,Y,,2017,off
+34,James Allen Dickinson,2017-08-03,63.0,M,100.0,Y,,,2017,broken
+35,Gregory Charles Phelps,2017-08-04,63.0,M,96.0,,Y,,2017,off
+36,Lucille Mable Meyer,2017-08-22,92.0,F,98.0,Y,,,2017,broken
+37,Wilma D Ulakey,2017-08-31,78.0,F,112.0,Y,,,2017,broken
+38,Beverly Ann Bay ,2017-09-01,77.0,F,108.0,Y,,,2017,broken
+39,Michael Harry McCullough,2017-09-12,55.0,M,105.0,Y,,,2017,broken
+40,Jonathan Zane Claxton,2017-09-16,62.0,M,105.0,Y,,,2017,broken
+41,Ariel Marie Giesie,2017-11-11,0.33,F,98.0,,,,2017,unknown
+0,Robert Joseph Termini,2018-05-09,57.0,M,89.0,,,,2018,unknown
+1,Victoria Lea Farves,2018-07-06,59.0,F,100.0,Y,,,2018,broken
+2,Candace Dale Bader,2018-07-13,71.0,F,114.0,,,,2018,unknown
+3,Patrick Michael Earl,2018-07-18,35.0,M,110.0,Y ,,,2018,unknown
+4,Paul Gilbert Wicherts,2018-07-19,78.0,M,102.0,,Y,,2018,off
+5,Frederick Everal Sperry,2018-07-24,68.0,M,85.0,Y,,,2018,broken
+6,Sara Mickey Marquez,2018-07-25,80.0,F,102.0,Y,,,2018,broken
+7,Robert Paul Taber,2018-07-25,72.0,M,94.0,Y,,,2018,broken
+8,Scott Vernon Loper,2018-07-26,65.0,M,103.0,,,Y,2018,none
+9,Barbara Pensky,2018-07-27,62.0,F,100.0,Y,,,2018,broken
+10,David Poffinbarger,2018-07-28,67.0,M,106.0,Y,,,2018,broken
+11,Leo Garcia Jr,2018-07-28,33.0,M,108.0,,,Y,2018,none
+12,Keith Allen Williams,2018-07-31,62.0,M,114.0,Y,,,2018,broken
+13,Andrew Reyes Lineses,2018-07-31,69.0,M,106.5,Y,,,2018,broken
+14,Robert Jesus Urias,2018-07-31,78.0,M,100.0,,,,2018,unknown
+15,Jay Edward Meyers,2018-08-01,72.0,M,101.0,Y,,,2018,broken
+16,June Ellen Graton Meitz,2018-08-02,82.0,F,100.0,Y,,,2018,broken
+17,Phillip Paul Coffaro Jr,2018-08-02,63.0,M,100.0,,Y,,2018,off
+18,Karen Anne Jubb,2018-08-06,70.0,F,106.2,Y,,,2018,broken
+19,Alfredo Quintero,2018-08-06,34.0,M,101.0,Y,,,2018,broken
+20,Brian Andrew Hughes,2018-08-07,63.0,M,100.0,Y,,,2018,broken
+21,Madelyn Kay Beberstein Hawkins,2018-08-10,75.0,F,105.0,Y,,,2018,broken
+22,David Jordan Royse,2018-08-10,40.0,M,103.0,Y,,,2018,broken
+23,John Paul Rager,2018-08-20,69.0,M,98.0,Y,,,2018,broken
+24,Guy Raymond Fabrizio,2018-08-21,64.0,M,110.9,,,Y,2018,none
+25,Edward James Bass IV,2018-08-23,62.0,M,110.0,Y,,,2018,broken
+26,Barbara Ann Bealey,2018-08-24,68.0,F,94.0,Y,,,2018,broken
+27,Martin John Rettig,2018-08-29,64.0,M,100.0,Y,,,2018,broken
+28,Ronald Henry Goff,2018-08-30,83.0,M,98.0,Y,,,2018,broken
+29,Hans Dietmar Donschikowski,2018-09-05,74.0,M,95.0,,,,2018,unknown
+30,Mark Stevens Banks,2018-09-07,67.0,M,97.0,Y,,,2018,broken
+31,Helga Heidecker,2018-09-12,88.0,F,97.0,,Y,,2018,off
+32,Andrea Constance Poh,2018-09-16,72.0,F,96.0,Y,,,2018,broken
+33,Rosary Patricia Mcpeek,2018-09-17,71.0,F,99.0,,,,2018,unknown
+34,Larry Eugene Purchase ,2018-09-18,69.0,M,100.0,Y,,,2018,broken
+35,Kathleen Elizabeth Purchase,2018-09-18,68.0,F,100.0,Y,,,2018,broken
