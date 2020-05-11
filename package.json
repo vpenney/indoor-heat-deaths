@@ -2,7 +2,7 @@
   "name": "graphics",
   "version": "1.0.0",
   "description": "Indoor heat deaths interactive",
-  "main": "graph.js",
+  "main": "bubbles.js",
   "scripts": {
     "test": "jest",
     "start": "parcel src/index.html",
