@@ -1,0 +1,111 @@
+,Name,Date_of_Exam,Age,Gender,Temp_cleaned,Aircon_not_functional/minimally_functional,Aircon_functional_but_not_on,Residence_did_not_have_airconditioning,Year,Temp_Cleaned,air_conditioning,air_conditioning_color
+1,Kevin Richard Anderson,2016-06-08,57,m,100,,,,2016,True,unknown,grey
+3,Susan Maria Knopf,2016-06-16,63,f,104,,Y,,2016,True,off,salmon
+4,Robert Ray Robinson,2016-06-18,81,m,94,Y,,,2016,True,broken,#64aad4
+5,Erminia Quihuis Chacon,2016-06-20,79,f,100,,Y,,2016,True,off,salmon
+6,Melissa Ann Magrey,2016-06-23,42,f,100,,,,2016,True,unknown,grey
+8,Elizabeth Jane Williams,2016-06-24,89,f,103,Y,,,2016,True,broken,#64aad4
+10,Michael Stanley Siders,2016-06-28,55,m,110,Y,,Y,2016,True,broken,#64aad4
+11,Ronald Clifford Bugh,2016-06-27,72,m,99,,Y,,2016,True,off,salmon
+12,Michael Gerard Hagensieker,2016-06-27,59,m,102,Y,,,2016,True,broken,#64aad4
+13,Dave Dwayne Nelson Sr. ,2016-06-28,56,m,95,,,Y,2016,True,none,gold
+16,Janet Mae Stipetic,2016-07-05,81,f,90,,Y,,2016,True,off,salmon
+17,Mary Magadelena Rodriguez Ackenback,2016-07-06,79,f,100,,Y,,2016,True,off,salmon
+18,Gaudencio Sanchez Hernandez,2016-07-06,65,m,105,Y,,,2016,True,broken,#64aad4
+19,Albert D Smedly,2016-07-08,64,m,95,,,,2016,True,unknown,grey
+20,Hadareina Serrano McInturf,2016-07-13,63,f,107,Y,,,2016,True,broken,#64aad4
+22,William Richard Scharf,2016-07-15,68,m,100,Y,,,2016,True,broken,#64aad4
+23,Gregory Sean Gallagher,2016-07-15,51,m,99,,Y,,2016,True,off,salmon
+24,Margaret E Miller,2016-07-21,68,f,105,Y,,,2016,True,broken,#64aad4
+27,Nora Ann Nemmers,2016-07-26,53,f,105,,,Y,2016,True,none,gold
+31,Humberto Montoya Ayala,2016-07-28,53,m,100,,,Y,2016,True,none,gold
+34,Gary Foulke Smith,2016-08-03,61,m,108,Y,,,2016,True,broken,#64aad4
+35,Lance Brain Blue,2016-08-02,49,m,100,Y,,,2016,True,broken,#64aad4
+37,Stephen Ernest Morgan,2016-08-04,62,m,104,Y,,,2016,True,broken,#64aad4
+38,Steven Eric Thompson,2016-08-06,69,m,96,Y,,,2016,True,broken,#64aad4
+39,Sandra Lee Broughton,2016-08-03,69,f,87,,,Y,2016,True,none,gold
+43,Priscilla Diane Games,2016-08-10,49,f,113,Y,,,2016,True,broken,#64aad4
+44,Donald Emanuel Koontz,2016-08-10,91,m,89,Y,,,2016,True,broken,#64aad4
+45,Jeffery Dillard Carr,2016-08-11,61,m,90,,,Y,2016,True,none,gold
+46,Joseph Nicholas Dimitry,2016-08-13,63,m,103,Y,,,2016,True,broken,#64aad4
+51,Kevin Loren Mackin,2016-08-20,63,m,95,Y,,,2016,True,broken,#64aad4
+53,Andrew Lee Statom,2016-08-23,52,m,96,,,Y,2016,True,none,gold
+55,Beatrice G Ferrante,2016-08-26,99,f,95,,Y,,2016,True,off,salmon
+0,June Beverly Bonesteel,2017-03-26,78,F,108,Y,,,2017,True,broken,#64aad4
+1,Alfredo Macias,2017-06-04,58,M,85,,,,2017,True,unknown,grey
+2,Robert Eugene Lose,2017-06-06,67,M,105,,,Y,2017,True,none,gold
+3,Shirley Edna Grindle,2017-06-08,83,F,105,Y,,,2017,True,broken,#64aad4
+4,Norman Doral Roberts,2017-06-09,69,M,115,Y,,,2017,True,broken,#64aad4
+5,Elizabeth Ann Kedzierski,2017-06-14,59,F,96,Y,,,2017,True,broken,#64aad4
+6,Ritchie Niles Rasmussen,2017-06-23,65,M,123,,,,2017,True,unknown,grey
+7,Rendaldo Anthony Alford Gonzales,2017-06-28,27,M,100,,,,2017,True,unknown,grey
+8,Pamela Rae Pennington ,2017-06-28,64,F,109,,Y,,2017,True,off,salmon
+9,Juan Falcon Garibay,2017-06-29,71,M,107,,,Y,2017,True,none,gold
+10,Joe Ann Hicks,2017-06-29,74,F,113,Y,,,2017,True,broken,#64aad4
+11,Thelma M Calhoun,2017-06-30,86,F,99,Y,,,2017,True,broken,#64aad4
+12,"Ivan Eugene Moore, Sr",2017-07-01,82,M,105,Y,,,2017,True,broken,#64aad4
+13,Susan Kaye Vycital,2017-07-03,61,F,110,Y,,,2017,True,broken,#64aad4
+14,Barbara Lee Eliopoulos,2017-07-03,80,F,105,,Y,,2017,True,off,salmon
+15,John Peter Stamos,2017-07-05,65,M,98,Y,,,2017,True,broken,#64aad4
+16,Jack Pinto,2017-07-04,72,M,101,,Y,,2017,True,off,salmon
+17,Jason Keith Rausch,2017-07-04,45,M,110,Y,,,2017,True,broken,#64aad4
+18,Lamoyne Lillian Loughry,2017-07-06,82,F,95,Y,,,2017,True,broken,#64aad4
+19,Elizabeth Anne Long,2017-07-06,55,F,95,Y,,,2017,True,broken,#64aad4
+20,Patrick Claude Conlon,2017-07-06,54,M,103,,,,2017,True,unknown,grey
+21,Jesse Castano,2017-07-10,63,M,100,,,,2017,True,unknown,grey
+22,Martha Ramsey,2017-07-11,79,F,96,,,Y,2017,True,none,gold
+23,John Howard Lancaster ,2017-07-11,68,M,111,Y,,,2017,True,broken,#64aad4
+24,Billy Jack Willie,2017-07-10,85,M,107,Y,,,2017,True,broken,#64aad4
+25,Edward Tang,2017-07-17,87,M,102,Y,,,2017,True,broken,#64aad4
+26,Henry Frank Milek,2017-07-14,84,M,103,Y,,,2017,True,broken,#64aad4
+27,Barbara Jo Schmidt,2017-07-15,55,F,105,Y,,,2017,True,broken,#64aad4
+28,Virginia Joyce Schotte,2017-07-17,74,F,101,Y,,,2017,True,broken,#64aad4
+29,Florian John Zienty,2017-07-20,86,M,92,Y,,,2017,True,broken,#64aad4
+30,Sara Viola Price,2017-07-22,94,F,98,,Y,,2017,True,off,salmon
+31,Terry Lee Classen,2017-07-24,67,M,90,Y,,,2017,True,broken,#64aad4
+32,James Ray Wilson,2017-07-30,43,M,100,,,Y ,2017,True,unknown,grey
+33,Frederick Michael Dunham,2017-08-30,53,M,107,,Y,,2017,True,off,salmon
+34,James Allen Dickinson,2017-08-03,63,M,100,Y,,,2017,True,broken,#64aad4
+35,Gregory Charles Phelps,2017-08-04,63,M,96,,Y,,2017,True,off,salmon
+36,Lucille Mable Meyer,2017-08-22,92,F,98,Y,,,2017,True,broken,#64aad4
+37,Wilma D Ulakey,2017-08-31,78,F,112,Y,,,2017,True,broken,#64aad4
+38,Beverly Ann Bay ,2017-09-01,77,F,108,Y,,,2017,True,broken,#64aad4
+39,Michael Harry McCullough,2017-09-12,55,M,105,Y,,,2017,True,broken,#64aad4
+40,Jonathan Zane Claxton,2017-09-16,62,M,105,Y,,,2017,True,broken,#64aad4
+41,Ariel Marie Giesie,2017-11-11,0,F,98,,,,2017,True,unknown,grey
+0,Robert Joseph Termini,2018-05-09,57,M,89,,,,2018,True,unknown,grey
+1,Victoria Lea Farves,2018-07-06,59,F,100,Y,,,2018,True,broken,#64aad4
+2,Candace Dale Bader,2018-07-13,71,F,114,,,,2018,True,unknown,grey
+3,Patrick Michael Earl,2018-07-18,35,M,110,Y ,,,2018,True,unknown,grey
+4,Paul Gilbert Wicherts,2018-07-19,78,M,102,,Y,,2018,True,off,salmon
+5,Frederick Everal Sperry,2018-07-24,68,M,85,Y,,,2018,True,broken,#64aad4
+6,Sara Mickey Marquez,2018-07-25,80,F,102,Y,,,2018,True,broken,#64aad4
+7,Robert Paul Taber,2018-07-25,72,M,94,Y,,,2018,True,broken,#64aad4
+8,Scott Vernon Loper,2018-07-26,65,M,103,,,Y,2018,True,none,gold
+9,Barbara Pensky,2018-07-27,62,F,100,Y,,,2018,True,broken,#64aad4
+10,David Poffinbarger,2018-07-28,67,M,106,Y,,,2018,True,broken,#64aad4
+11,Leo Garcia Jr,2018-07-28,33,M,108,,,Y,2018,True,none,gold
+12,Keith Allen Williams,2018-07-31,62,M,114,Y,,,2018,True,broken,#64aad4
+13,Andrew Reyes Lineses,2018-07-31,69,M,106,Y,,,2018,True,broken,#64aad4
+14,Robert Jesus Urias,2018-07-31,78,M,100,,,,2018,True,unknown,grey
+15,Jay Edward Meyers,2018-08-01,72,M,101,Y,,,2018,True,broken,#64aad4
+16,June Ellen Graton Meitz,2018-08-02,82,F,100,Y,,,2018,True,broken,#64aad4
+17,Phillip Paul Coffaro Jr,2018-08-02,63,M,100,,Y,,2018,True,off,salmon
+18,Karen Anne Jubb,2018-08-06,70,F,106,Y,,,2018,True,broken,#64aad4
+19,Alfredo Quintero,2018-08-06,34,M,101,Y,,,2018,True,broken,#64aad4
+20,Brian Andrew Hughes,2018-08-07,63,M,100,Y,,,2018,True,broken,#64aad4
+21,Madelyn Kay Beberstein Hawkins,2018-08-10,75,F,105,Y,,,2018,True,broken,#64aad4
+22,David Jordan Royse,2018-08-10,40,M,103,Y,,,2018,True,broken,#64aad4
+23,John Paul Rager,2018-08-20,69,M,98,Y,,,2018,True,broken,#64aad4
+24,Guy Raymond Fabrizio,2018-08-21,64,M,111,,,Y,2018,True,none,gold
+25,Edward James Bass IV,2018-08-23,62,M,110,Y,,,2018,True,broken,#64aad4
+26,Barbara Ann Bealey,2018-08-24,68,F,94,Y,,,2018,True,broken,#64aad4
+27,Martin John Rettig,2018-08-29,64,M,100,Y,,,2018,True,broken,#64aad4
+28,Ronald Henry Goff,2018-08-30,83,M,98,Y,,,2018,True,broken,#64aad4
+29,Hans Dietmar Donschikowski,2018-09-05,74,M,95,,,,2018,True,unknown,grey
+30,Mark Stevens Banks,2018-09-07,67,M,97,Y,,,2018,True,broken,#64aad4
+31,Helga Heidecker,2018-09-12,88,F,97,,Y,,2018,True,off,salmon
+32,Andrea Constance Poh,2018-09-16,72,F,96,Y,,,2018,True,broken,#64aad4
+33,Rosary Patricia Mcpeek,2018-09-17,71,F,99,,,,2018,True,unknown,grey
+34,Larry Eugene Purchase ,2018-09-18,69,M,100,Y,,,2018,True,broken,#64aad4
+35,Kathleen Elizabeth Purchase,2018-09-18,68,F,100,Y,,,2018,True,broken,#64aad4
