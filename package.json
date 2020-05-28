@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --out-dir docs --public-url /indoor-heat-deaths"
+    "build": "parcel build src/index.html --out-dir docs --public-url /indoor-heat-deaths/"
   },
   "jest": {
     "setupFiles": [
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "indoor_heat_deaths"
+    "url": "indoor-heat-deaths"
   },
   "directories": {
     "doc": "docs"
