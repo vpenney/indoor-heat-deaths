@@ -111,6 +111,7 @@ function ready(datapoints) {
       d3.select('#age').text(d.Age)
       d3.select('#temp').text(d.Temp_cleaned)
       d3.select('#year').text(d.Year)
+      d3.select('#gender').text(d.Gender)
 
       // Hide end quote on mouseover/click
       d3.select('#end-quote').style('display', 'none')
@@ -174,19 +175,19 @@ function ready(datapoints) {
   // After 5 seconds, hide intro text
   d3.select('#introduction')
     .transition(750)
-    .delay(5000)
+    .delay(10000)
     .style('display', 'none')
 
   // Indroduce Dickinson text
   d3.select('#dickinson')
     .transition(750)
-    .delay(5000)
+    .delay(10000)
     .style('display', 'block')
 
   // Highlight Dickinson point
   d3.selectAll('circle')
     .transition(750)
-    .delay(5000)
+    .delay(10000)
     .attr('fill', function(d) {
       if (d.Name === 'James Allen Dickinson') {
         return colorScale(d.air_conditioning)
@@ -200,17 +201,17 @@ function ready(datapoints) {
 
   d3.select('#dickinson')
     .transition(750)
-    .delay(15000)
+    .delay(17000)
     .style('display', 'none')
 
   d3.select('#broken')
     .transition(750)
-    .delay(15000)
+    .delay(17000)
     .style('display', 'block')
 
   d3.selectAll('circle')
     .transition(750)
-    .delay(15000)
+    .delay(17000)
     .attr('fill', function(d) {
       if (d.air_conditioning === 'broken') {
         return colorScale(d.air_conditioning)
@@ -229,17 +230,17 @@ function ready(datapoints) {
 
   d3.select('#broken')
     .transition(750)
-    .delay(25000)
+    .delay(24000)
     .style('display', 'none')
 
   d3.select('#noac')
     .transition(750)
-    .delay(25000)
+    .delay(24000)
     .style('display', 'block')
 
   d3.selectAll('circle')
     .transition(750)
-    .delay(25000)
+    .delay(24000)
     .attr('fill', function(d) {
       if (d.air_conditioning === 'off') {
         return colorScale(d.air_conditioning)
@@ -258,17 +259,17 @@ function ready(datapoints) {
 
   d3.select('#noac')
     .transition(750)
-    .delay(35000)
+    .delay(40000)
     .style('display', 'none')
 
   d3.select('#off')
     .transition(750)
-    .delay(35000)
+    .delay(40000)
     .style('display', 'block')
 
   d3.selectAll('circle')
     .transition(750)
-    .delay(35000)
+    .delay(40000)
     .attr('fill', function(d) {
       if (d.air_conditioning === 'none') {
         return colorScale(d.air_conditioning)
@@ -288,17 +289,17 @@ function ready(datapoints) {
 
   d3.select('#off')
     .transition(750)
-    .delay(45000)
+    .delay(60000)
     .style('display', 'none')
 
   d3.select('#unknown')
     .transition(750)
-    .delay(45000)
+    .delay(60000)
     .style('display', 'block')
 
   d3.selectAll('circle')
     .transition(750)
-    .delay(45000)
+    .delay(60000)
     .attr('fill', function(d) {
       if (d.air_conditioning === 'unknown') {
         return colorScale(d.air_conditioning)
@@ -317,17 +318,17 @@ function ready(datapoints) {
 
   d3.select('#unknown')
     .transition(750)
-    .delay(55000)
+    .delay(80000)
     .style('display', 'none')
 
   d3.select('#end-quote')
     .transition(750)
-    .delay(55000)
+    .delay(80000)
     .style('display', 'block')
 
   d3.selectAll('circle')
     .transition(750)
-    .delay(55000)
+    .delay(80000)
     .attr('fill', d => {
       return colorScale(d.air_conditioning)
     })
